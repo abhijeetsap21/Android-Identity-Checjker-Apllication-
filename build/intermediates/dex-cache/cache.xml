@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_e573284d1f25a9666ae0b46bca5e9e5a8801dd02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abhijeet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_af8acf80546b1416661754a682a43ab4a9e90e64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_0c9d91ead55f5741e28269d455847ffbc63da53b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_70673321dd07786f07927588576838958dc073b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_08a6d3cce2e8d5df931f851f88ca402882a874e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\Whoami\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_1e9663366d42d2cced73864e5ff623329725c00d.jar" />
+    </item>
+
+</items>
