@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Who AM I</string>
+    <string name="start">START</string>
+    <string name="fname">Abhijeet </string>
+    <string name="lname">Pandey</string>
+    <string name="coun">India</string>
+</resources>
